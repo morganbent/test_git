@@ -1,2 +1,4 @@
 Full name: Tommy T
+=======
+Full name: Tommy Trojan
 Department: Computer Science
